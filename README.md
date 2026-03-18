@@ -27,9 +27,13 @@ This app performs basic arithmetic operations with a clean **mobile-style UI lay
 
 ## 📂 Project Structure
 calculator_app/
+
 │── lib/
+
 │ └── main.dart # Main application logic
+
 │── web/ # Web support files
+
 │── pubspec.yaml # Dependencies & configuration
 
 
